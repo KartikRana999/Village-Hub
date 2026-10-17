@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "mugk4vclme2oz7o",
+    "name": "Village Hub Admin",
+    "email": "admin@villagehub.in",
+    "password": "$2a$10$H8k5nW3Ce.9l4.vCtmbAb.Eix7UiZn5kamSJ75ltXxNbpGPIRCMtC",
+    "role": "admin",
+    "createdAt": "2026-09-25T06:05:58.581Z",
+    "updatedAt": "2026-09-25T06:05:58.581Z"
+  },
+  {
+    "_id": "mugk5ys5nhfpr5nnwbq",
+    "name": "Test User",
+    "email": "testuser1790316409591@example.com",
+    "password": "$2a$10$0gH3O7K5Nvf3gNWeO19iDez.HLBAUqjXRmYhhZMnlRU4ZknuFGiee",
+    "role": "user",
+    "createdAt": "2026-09-25T06:06:49.685Z",
+    "updatedAt": "2026-09-25T06:06:49.685Z"
+  },
+  {
+    "_id": "mv92n75q2gfcnu9y4kl",
+    "name": "Kavya Vidya",
+    "email": "mc9810189699@gmail.com",
+    "password": "$2a$10$vBFHwdyDeLYmJ6LJw64OX.JApT2WZGcVnSSFW1EwKSfpcHTP5TCMy",
+    "role": "user",
+    "createdAt": "2026-10-15T05:01:39.710Z",
+    "updatedAt": "2026-10-15T05:01:39.711Z"
+  },
+  {
+    "_id": "mv92n7hd7d8cl27woxq",
+    "name": "KESHAV CHOUDHARY ",
+    "email": "keshavchoudhary11407@gmail.com",
+    "password": "$2a$10$hxSzBzo69BZISjmNgb37GeXZ3D09j6Y/3w0SOKtjkXtrM/5cLP04m",
+    "role": "user",
+    "createdAt": "2026-10-15T05:01:40.129Z",
+    "updatedAt": "2026-10-15T05:01:40.130Z"
+  },
+  {
+    "_id": "mv92o8y3sqbmvqyve8i",
+    "name": "Kavya Vaidya ",
+    "email": "kavya.v4124@gmail.com",
+    "password": "$2a$10$KfpBZn9m0WskP7iExsu/seveIywi8Is6jTeybeUhqPpS3rtot/uEC",
+    "role": "user",
+    "createdAt": "2026-10-15T05:02:28.683Z",
+    "updatedAt": "2026-10-15T05:02:28.684Z"
+  },
+  {
+    "_id": "mv9mi2vr9dww0sqijd",
+    "name": "Test User",
+    "email": "testuser1792073853057@example.com",
+    "password": "$2a$10$tiQEKYtfCIuO2TVIZV3HJuHUKvYl.fyFBEhWyBYurxGYZevL06pMS",
+    "role": "user",
+    "createdAt": "2026-10-15T14:17:33.207Z",
+    "updatedAt": "2026-10-15T14:17:33.207Z"
+  }
+]

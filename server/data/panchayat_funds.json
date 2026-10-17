@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "mvalyoawf71mhv1",
+    "gram_panchayat": "Test Batch GP",
+    "district": "Ghaziabad",
+    "financial_year": "2025-26",
+    "scheme_name": "Batch Scheme",
+    "source": "eGramSwaraj",
+    "updated_by": "admin@villagehub.in",
+    "createdAt": "2026-10-16T06:50:14.024Z",
+    "updatedAt": "2026-10-16T06:50:14.025Z"
+  },
+  {
+    "_id": "mvam09um2hq3m3o",
+    "gram_panchayat": "Test Batch GP",
+    "district": "Ghaziabad",
+    "financial_year": "2025-26",
+    "scheme_name": "Batch Scheme",
+    "source": "eGramSwaraj",
+    "updated_by": "admin@villagehub.in",
+    "createdAt": "2026-10-16T06:51:28.606Z",
+    "updatedAt": "2026-10-16T06:51:28.606Z"
+  }
+]
